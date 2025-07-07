@@ -38,4 +38,4 @@ fantasy-cricket-optimizer/
 ├── models/
 │   └── xgb_fantasy_model.pkl (generated after training)
 └── outputs/
-    └── FantasyPredictors_output.csv (generated after team optimization)
+    └── FantasyPredictors_output.csv
